@@ -6,7 +6,7 @@ import { moneyCompact, money } from "@/lib/format";
 import type { SeriesPoint } from "@/lib/selectors";
 
 const WIDTH = 860;
-const HEIGHT = 260;
+const HEIGHT = 330;
 const PAD = { top: 16, right: 16, bottom: 28, left: 56 };
 
 /**
