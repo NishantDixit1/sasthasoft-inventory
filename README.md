@@ -4,7 +4,8 @@ An inventory management application covering dashboard, sales, purchase, stock,
 reports, customers, suppliers and a godown view. Built as a trial task for
 SasthaSoft.
 
-**Live demo:** _(Vercel link)_
+**Live demo:** https://sasthasoft-inventory.vercel.app
+**Source:** https://github.com/NishantDixit1/sasthasoft-inventory
 
 ---
 
